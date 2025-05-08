@@ -5,7 +5,7 @@ A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaS
 ## Features
 - Responsive design
 - Lively animations
-- Uses images for a better UI
+- Uses images 
 
 ## How to Play
 1. Choose Rock, Paper, or Scissors.

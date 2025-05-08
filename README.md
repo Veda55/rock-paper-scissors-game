@@ -1,2 +1,15 @@
-# rock-paper-scissors-game
-A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. The game allows players to choose between rock, paper, or scissors, and the computer randomly selects one of these options. The player and computer's choices are compared to determine the winner
+# Rock Paper Scissors Game
+
+A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Lively animations
+- Uses images for a better UI
+
+## How to Play
+1. Choose Rock, Paper, or Scissors.
+2. See the computer's choice and find out who wins!
+
+## Setup
+Clone this repository and open `index.html` in a browser to play the game
